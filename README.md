@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anirudhmoopan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirudhmoopan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anirudh nk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh nk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anirudh nk" target="blank"><img align="center" src="https://www.linkedin.com/in/anirudh-nk-3018b4254/" alt="anirudh nk" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/anirudh moopan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anirudh moopan" height="30" width="40" /></a>
 <a href="https://instagram.com/anirudh_moopan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anirudh_moopan" height="30" width="40" /></a>
 </p>
