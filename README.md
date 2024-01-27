@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhmoopan&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhmoopan" /> </p>
 
 
-- 🌱 I’m currently learning **BE.Computer Science and Engineering**
+- 🌱 I've graduated with a **BE.Computer Science and Engineering**
 
 - 💬 Ask me about **Python,HTML,JS,Django**
 
