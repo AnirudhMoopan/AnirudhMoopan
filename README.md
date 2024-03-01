@@ -1,20 +1,25 @@
-[![MasterHead](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.internetcreation.net%2Fwp-content%2Fuploads%2F2015%2F04%2Fbanner-web-development.png&f=1&nofb=1&ipt=0beea61382bedc74e4cc03e62bb7bd23aa63954eaf3a648d6b93ebfba18b99a6&ipo=images)]()
-<h1 align="center">Hi 👋, I'm Anirudh NK</h1>
-<h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hi there👋, I'm Anirudh Moopan!</h1>
 
+```js
+const name = 'Moopan';
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhmoopan&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhmoopan" /> </p>
+Developer dev = new Developer(name);
 
+while(dev.isCoding())
+{
+  dev.listenToMusic();
+  dev.openStackOverFlow();
+  dev.drinkWater();
+}
+```
 
-- 🌱 I've graduated with a **BE.Computer Science and Engineering**
+<p align="center">Check out my <a href="https://schmelto.github.io/Portfolio">portfolio website</a> to get to know my tech stack and some other cool stuff.</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/30869493/134504434-590236f3-d00b-4fb4-9454-baff8497beeb.png" height="60px">
+  <a href="https://github.com/SAP-samples/devtoberfest-2021"><img src="https://user-images.githubusercontent.com/30869493/134504475-3893a5e1-2922-4243-a86a-baf17ac61400.png" height="60px"></a>
+  <img src="https://user-images.githubusercontent.com/30869493/141280079-58814cbd-0ec9-4d84-a80e-b572a3c895b9.png" height="60px">
+  <img src="https://user-images.githubusercontent.com/30869493/194870619-f01c3f8f-9780-46a9-ab74-af66005cb137.svg" height="60px">
+  <img src="https://user-images.githubusercontent.com/30869493/197983335-5b4b4743-31b1-4c5d-a034-aa76cec146ed.png" height="60px">
+  <img src="https://github.com/schmelto/schmelto/assets/30869493/b16d2524-1c63-4390-9b88-991a30132f45" height="60px">
 
-- 💬 Ask me about **Python,HTML,JS,Django**
-
-- 📫 How to reach me **anirudhmoopan@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anirudh-nk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh nk" height="30" width="40" /></a>
-<a href="https://www.instagram.com/anirudh___moopan/?igsh=Mm0ybWlybWZ5czV5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anirudh_moopan" height="30" width="40" /></a>
 </p>
